@@ -1,4 +1,3 @@
-// Clase base para una serie de TV
 export class Serie {
     id: number;
     name: string;

@@ -23,5 +23,4 @@ function renderSeriesInTable(series: Serie[]): void {
   seriesTbody.appendChild(trAvg);
 }
 
-// Llamada directa (sin event listeners)
 renderSeriesInTable(dataSeries);
